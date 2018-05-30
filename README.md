@@ -20,4 +20,5 @@
 ### Graph Theory
 
 1. [Breadth First Search](https://github.com/NullPointer09/algorithms/blob/master/graphTheory/BreadthFirstSearch.py)<br>
+2. [Find the Maximum value of path in Binary Tree](https://github.com/MD-ABDUL-MOMIN/algorithms/blob/master/graphTheory/MaximumPathSumBinaryTree.py)<br> 
 
